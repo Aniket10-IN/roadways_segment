@@ -24,3 +24,6 @@ Decoder: Reconstructs the image while retaining the location information.
 
 ## Some results of trained model from test data
 ![Screenshot from 2024-07-24 08-24-18](https://github.com/user-attachments/assets/f033a547-fea3-447f-896f-95f7640e7681)
+
+![Screenshot from 2024-07-24 08-27-23](https://github.com/user-attachments/assets/249c2d04-ea4d-45c4-a29d-2ec31ae4ce83)
+
