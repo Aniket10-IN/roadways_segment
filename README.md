@@ -7,11 +7,9 @@ This project focuses on identifying roadways from satellite images using deep le
 ## Dataset
 Structure
 Training Data: 6226 RGB satellite images (1024x1024 pixels) with masks.
-Validation Data: 1243 RGB satellite images(without masks), so I split train data to use 15% of data as validation set
+Validation Data: 1243 RGB satellite images(without masks), so I split train data to use 15% of data as validation set.
 Test Data: 1101 RGB satellite images (without masks).
-Labels
-Road Pixels: White (255)
-Background Pixels: Black (0)
+Labels Road Pixels: White (255), Background Pixels: Black (0)
 #### Note: The mask values might not be exactly 0 and 255. Masks are binarized at a threshold of 128.
 
 ### Model Architecture
