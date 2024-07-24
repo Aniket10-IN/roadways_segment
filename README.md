@@ -18,7 +18,7 @@ The U-Net model used consists of an encoder-decoder structure:
 Encoder: Extracts features using convolutional layers.
 Decoder: Reconstructs the image while retaining the location information.
 
-### Intersection over Union(IOU) and Dice Coefficient is used as scoring metric.
+#### Scoring metrics: Intersection over Union(IOU) and Dice Coefficient.
 
 ## Some results of trained model from test dataset.
 ![Screenshot from 2024-07-24 08-24-18](https://github.com/user-attachments/assets/f033a547-fea3-447f-896f-95f7640e7681)
